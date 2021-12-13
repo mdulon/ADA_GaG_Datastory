@@ -1,1 +1,1 @@
-# ADA_GaG-Jekyll
+# ADA_GaG_Jekyll
