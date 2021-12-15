@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+# Politics in sport quotes
+
+## How much of the sport quotes among each media is politics related?
+
+## Which political parties or politicians are the most present in the sports quotes?
+
+## What is the occupation distribution of the speakers?
+
+## How does this phenomenon evolve over time? For instance, does it increase before elections?
+
+## What are the more represented topics in sport quotes?
