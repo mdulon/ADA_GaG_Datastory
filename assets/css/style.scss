@@ -138,6 +138,22 @@ body {
   @include medium {
     font-size: 1rem;
   }
+  
+.footerLinks {
+   text-align: center;
+}
+.footerLinks ul {
+	padding: 0;
+    list-style-type: none;
+    margin: 0;
+}
+.footerLinks li {
+	display: inline;
+}
+.footerLinks a {
+	color: #d9d9d9;
+	text-decoration: none;
+	font-size: 13px;
 
   @include small {
     font-size: 0.9rem;
