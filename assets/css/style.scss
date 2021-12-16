@@ -3,6 +3,16 @@
 
 @import"{{ site.theme }}";
 
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: $body-text-color;
+  background-color: yellow;
+}
+
 .page-header {
     background-image: url("../../image/word_cloud_sport.png");
     -webkit-background-size: cover; /* For WebKit*/
@@ -14,7 +24,6 @@
     }
     
 .main-content {
-  background-color: green;
   text-align: justify;
   word-wrap: break-word;
 
