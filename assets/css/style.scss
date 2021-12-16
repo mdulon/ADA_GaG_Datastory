@@ -13,6 +13,10 @@
     margin-top: 0cm;
     }
 
+.page__content {
+  text-align: justify;
+}
+
 .main-content {
   h1 {
    color: #ff0000;
@@ -21,7 +25,6 @@
    display: flex;
    flex-direction: column;
    justify-content: center;
-   text-align: center;
  }
   h2,
   h3,
