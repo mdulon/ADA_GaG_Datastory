@@ -10,14 +10,11 @@
     -o-background-size: cover;      /* Opera*/
     background-repeat: no-repeat;
     color: #ff0000;
-    margin-top: 10cm;
+    margin-bottom: 10cm;
     }
 
-.body {
-  text-align: justify;
-}
-
 .main-content {
+  text-align: justify;
   h1 {
    color: #ff0000;
    height: 100px;
@@ -57,7 +54,6 @@
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
-  display: none;
 
   @include large {
     font-size: 1.25rem;
