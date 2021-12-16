@@ -4,12 +4,12 @@
 @import"{{ site.theme }}";
 
 .page-header {
-    background-image: url("../../image/footballer_wordcloud.png");
+    background-image: url("../../image/word_cloud_sport.png");
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover;    /* Mozilla*/
     -o-background-size: cover;      /* Opera*/
     background-repeat: no-repeat;
-    height: 100%;
+    font-color: #ff0000;
     }
 
 .main-content {
