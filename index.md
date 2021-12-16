@@ -108,13 +108,13 @@ Unfortunately, as one can observe, it is not possible to identify any trends due
 
 However, another approach is to have a look at the media themselves and how their tendancies have evolved through time : 
 
-![](image/media_time_evolution/STD.png 'Variation trhough the years')
+![](image/media_time_evolution/STD.png 'Variation through the years')
 
 This first graph shows the standard deviation of the percentage of politicised sports quotes over the 6 years of data. We can observe that certain media are very stable with a standard deviation inferior to 1% over 6 years, whereas other are highly unstable, reaching more than 26% for KRMG. This could be related to a change of internal policy or direction. 
 
 To visualize better what is going on through the years for the most unstable medias, i.e. with a standard deviation superior to 10 :
 
-![](image/media_time_evolution/variation.png 'Variation trhough the years')
+![](image/media_time_evolution/variation.png 'Variation through the years')
 
 We can observe that for instance that for MSN there is a downward trend with a sharp drop after 2015, but it stayed relatively stable afterwards. JDSupra shows no clear trends whereas the rest of the medias show relatively upward trends.
 
@@ -127,5 +127,5 @@ In order to answer this question, we perform a topic analysis on all theses spor
 
 Using LDA, we find the more likely topic for each quote, the graph below shows the evolution of the porportion of theses 4 topics over years.  
 
-![topics](image/topics/topics.png)
+![topics](image/topics/topics.png 'Varation of topics through years')
 
