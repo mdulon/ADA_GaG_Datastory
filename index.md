@@ -125,7 +125,13 @@ We are now interested in figuring out if the sport quotes said by politicians ar
 
 In order to answer this question, we perform a topic analysis on all theses sport quotes said by politicians. 
 
-Using LDA, we find the more likely topic for each quote, the graph below shows the evolution of the porportion of theses 4 topics over years.  
+Using LDA, we find the more likely topic for each quote, the graph below shows the evolution of the proportion of theses 4 topics over years.  
 
-![topics](image/topics/topics.png 'Varation of topics through years')
+![topics](image/topics/topics.png 'Varation of topics in sport quotes said by politicians through years')
 
+
+This graph shows that the politics-oriented sport quotes said by politician represents between 25% and 30%. Another topic very present topic encompasses daily life themes (30%-38%). Finally, the two last topics are obviously sport-related (30%-35%). 
+
+We can also add that the percentage of politics-related sport quotes seems stable over years.
+
+However, the conclusions of this topic analysis must be nuanced by the fact that it is sometimes even difficult for a human to correctly identify the topic of a quotation. This is due to the sometimes very short length of the content of the quote. It seems that the task is even more difficult for a machine. So it seems prudent not to get too attached to very precise results from this study. 
