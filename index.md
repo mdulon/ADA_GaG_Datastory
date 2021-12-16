@@ -100,7 +100,7 @@ So far it appears that quotes among sports media are actually linked to politics
 We can see that the 30 biggest medias have at least 300 000 quotes whereas only two medias really stand out : Yahoo and MSN with more than 2 million sport quotes.
 Now, that we have this selection of sports media, let's see what the proportion of political speakers in sport quotes there is for each media : 
 
-![](image/media_time_evolution/Political_speakers_by_media.png 'Political speaker according to TOP 30 medias')
+![](image/media_time_evolution/Political_speakers_by_media1.png 'Political speaker according to TOP 30 medias')
 
 As one can observe on this image, the proportion of political speakers among the different media ranges from 1.5% for Skysports to 71% for krmg. This seems to indicate that certain media are definitely more politicized than others and uses their sports section also for political reasons.
 
@@ -122,7 +122,7 @@ This first graph shows the standard deviation of the percentage of politicised s
 
 To visualize better what is going on through the years for the most unstable medias, i.e. with a standard deviation superior to 10 :
 
-![](image/media_time_evolution/variation.png 'Variation through the years')
+![](image/media_time_evolution/variation1.png 'Variation through the years')
 
 We can observe that for instance that for MSN there is a downward trend with a sharp drop after 2015, but it stayed relatively stable afterwards. JDSupra shows no clear trends whereas the rest of the medias show relatively upward trends.
 
