@@ -36,8 +36,35 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+## Exploring data
 
-# Politics in sport quotes
+### All sport quotes speakers : occupation distribution
+
+sport quotes but second occupation is politician
+
+![sport_quotes_occupation_distribution](/gh-pages/assets/occupation/all_speakers.png)
+
+### Politicians : occupation distribution
+
+Person with political parties
+Trié par rapport au nombre d'occupation
+- Que 1
+- Plusieurs dont politician
+- Plusieurs mais pas politician
+
+-> les gens qui ont un parti sont souvent des politicians
+-> bcp de politicians font autre chose (lawyer...), résultat attendu
+-> acteurs..., on voit que des persoonnes connues ont souvent un parti politique (profitent de leur popularité), intéressant de considérer comme poolitician car on s'intéresse aux messages politiques bien qu'elles ne soient pas politician de métier
+
+### Quel parti politique les plus présents dans les sport quotes
+
+Démocrates et républicains et bcp de petits partis
+-> Ces 2 partis ressortent le plus car les quotes sont anglophones, donc logique 
+mais n'est pas vrai ua niveau mondial
+
+#### Politicians : 
+à voir avec la nouvelle fonction de Nicolas
+-> personnes qui ressortent le plus ?
 
 ## How much of the sport quotes among each media is politics related?
 
@@ -48,3 +75,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## How does this phenomenon evolve over time? For instance, does it increase before elections?
 
 ## What are the more represented topics in sport quotes?
+
+Francesca : 
+
+
