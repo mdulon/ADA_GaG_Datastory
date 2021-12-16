@@ -10,7 +10,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
-  background-color: white;
+  background-color: grey;
 }
 
 .page-header {
@@ -26,7 +26,7 @@ body {
 .main-content {
   text-align: justify;
   word-wrap: break-word;
-  bakcground-color: grey;
+  bakcground-color: white;
 
   :first-child {
     margin-top: 0;
