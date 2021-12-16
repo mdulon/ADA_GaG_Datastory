@@ -142,4 +142,4 @@ This graph shows that the politics-oriented sport quotes said by politician repr
 
 We can also add that the percentage of politics-related sport quotes seems stable over years.
 
-However, the conclusions of this topic analysis must be nuanced by the fact that it is sometimes even difficult for a human to correctly identify the topic of a quotation. This is due to the sometimes very short length of the content of the quote. It seems that the task is even more difficult for a machine. So it seems prudent not to get too attached to very precise results from this study. 
+However, the conclusions of this topic analysis must be nuanced by the fact that it is sometimes even difficult for a human to correctly identify the topic of a quotation. This is due to the sometimes very short length of the content of the quote. It seems that the task is even more difficult for a machine. So it seems prudent not to get too attached to very precise results from this study.
