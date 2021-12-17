@@ -8,7 +8,7 @@ All of these movements are well known political actions and show how strong the 
 
 A lot of questions can be raised and the analysis can quickly become complexe. This datastory aims to bring an answer supported by data to certain of these questions.
 
-The data used for the entire analysis is Quotebank data for the years 2015-2020, where only quotes from sports media are selected.
+The data used for the entire analysis is Quotebank data for the years 2015 to 2020, where only quotes from sports media are selected.
 
 
 
