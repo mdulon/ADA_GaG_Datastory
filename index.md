@@ -48,7 +48,7 @@ The distribution of occupancies for speakers with a single occupation is shown b
 
 ![politicians_occupation_distribution_1_occupation](image/occupation/politicians_occupation_distribution_1_occupation.png)
 
-In the case of a single occupation, it remains mainly politicians. This was expected as part of the study on people being attributed to political parties. This is also reassuring because it shows that our study will be able to take into consideration the interesting phenomenon of the few non-politicians being attributed to a political party while being mainly centered on politicians.
+In the case of a single occupation, it remains mainly politicians.  This was expected as the study is carried on people being attributed to political parties. This is also reassuring because it shows that our study will be able to take into consideration the interesting phenomenon of the few non-politicians being attributed to a political party while being mainly centered on politicians.
 
 
 #### Speakers with multiple occupations including politics
@@ -91,6 +91,26 @@ The graph below shows the number of quotes from the 15 politicians most present 
 ![most_present_politicians](image/most_present/most_present_politicians.png)
 
 The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. More exactly, President Donald Trump is cited two times more than the second cited politician over sport quotes. However, President Donald Trump only represents 3.45% of speakers in sports quotes.
+
+## What is the distribution of the political tendency of the political parties present in the sports quotes (going from far right to far left)?
+
+Apart from the Republican and Democratic political parties of the United States, which together represent more than half of the political parties, the distribution of political parties displayed above presents fairly splitted data due to the presence of a multitude of minor political parties.
+In order to make these data more usable, it is here proposed to analyze the distribution of political tendencies of these parties.
+
+![parties_wings](image/parties_wings.png)
+
+The results show that the major tendency is center, with centrism, center right and center left equally distributed. The right and left wings are about half the size of the center, and are also evenly distributed. There are very few extremes.
+
+## What is the distribution of the political parties present for a specific country?
+
+It is important to note that sometimes parties have the same name but come from two different countries. This can bias the results.
+In the context of a precise study of the distribution of political parties, this problem can be addressed by explicitly controlling the country of origin of political parties.
+Here we did this for the parties of the United States. The new distribution is displayed below on a logarithmic scale to improve the visibility of minor parties.
+
+![parties_by_country](image/parties_by_country.png)
+
+In the case of the United States, the Republican and Democratic parties stand out considerably from other parties. What had already been underlined in the overall distribution of political parties made above, this is normal given the very large difference in the presence of these two parties compared to the others. The differences in the data caused by selecting only American parties are not felt on such high values. Moreover, minor parties often seem to be variations of the two major parties as well.
+
 
 ## How much of the sport quotes among each media is politics related?
 
