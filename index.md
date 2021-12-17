@@ -124,7 +124,7 @@ In the context of a precise study of the distribution of political parties, this
 Here we did this for the parties of the United States. The new distribution is displayed below on a logarithmic scale to improve the visibility of minor parties.
 
 <p align="center">
-  <img src="image/parties_by_country.png">
+  <img src="image/parties_by_country3.png">
 </p>
 
 In the case of the United States, the Republican and Democratic parties stand out considerably from other parties. What had already been underlined in the overall distribution of political parties made above, this is normal given the very large difference in the presence of these two parties compared to the others. The differences in the data caused by selecting only American parties are not felt on such high values. Moreover, minor parties often seem to be variations of the two major parties as well.
