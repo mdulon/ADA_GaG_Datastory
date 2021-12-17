@@ -95,7 +95,7 @@ The graph below shows the number of quotes from the 15 politicians most present 
 
 ![most_present_politicians](image/most_present/most_present_politicians.png)
 
-The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. However, President Donald Trump only represents 4% of speakers in sports quotes.
+The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. More exactly, President Donald Trump is cited two times more than the second cited politician over sport quotes. However, President Donald Trump only represents 4% of speakers in sports quotes.
 
 ## How much of the sport quotes among each media is politics related?
 
