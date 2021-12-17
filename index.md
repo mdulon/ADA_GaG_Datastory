@@ -173,8 +173,7 @@ However, we have only scratched the tip of the iceberg due to time contraint. Fo
 
 ## Code
 
-You find here the notebook generating all the data and figures displayed :
-https://github.com/epfl-ada/ada-2021-project-gag/tree/master
+[Here](https://github.com/epfl-ada/ada-2021-project-gag/tree/master) you can find the notebook processing all the data and generating the figures displayed.
 
 # The GaG team
 
