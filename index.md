@@ -165,7 +165,11 @@ We can also add that the percentage of politics-related sport quotes seems stabl
 
 However, the conclusions of this topic analysis must be nuanced by the fact that it is sometimes even difficult for a human to correctly identify the topic of a quotation. This is due to the sometimes very short length of the content of the quote. It seems that the task is even more difficult for a machine. So it seems prudent not to get too attached to very precise results from this study.
 
-## Conclusion
+# Conclusion
+
+To conclude, this study has shown that the quotes of sports medias are indeed politicized. Surprisingly, we have actually shown that politicians are among the most frequent speakers (6% of the quotes). In addition, we have shown that the different medias are definitely not equal in term of bias as certain have much more politicized quotes. Finally, we have also seen that the most represented speakers or parties seem to align with the popular parties or speakers at that time in the english speaking world. 
+
+However, we have only scratched the tip of the iceberg due to time contraint. For instance, a deeper study could investigate the type of quotes said by politicians and try to figure out if they are deliberately trying to use it as a tool to influence public opinion. The goal of this study was only to look at the facts and give quantities about the connexion of politics with sport medias. The only conclusion we can draw is that there is definitely a link and that certain medias are much more biased. Therefore the reader and sports enthusiasts should be aware of this phenomenon to keep a critical mind while reading sport articles, despite that this isn't the place where one would expect politics to be influent.
 
 ## Code
 
