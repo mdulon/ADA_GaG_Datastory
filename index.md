@@ -31,7 +31,7 @@ Results show that the main occupations of sport quotes speakers are first associ
 
 It is interesting to note that not only politicians are assigned to a political party on wikidata. In fact, people with other professions but who are involved in campaigns are also attributed to a political party. These people might also want to influence the sports media audience in the direction of their political activism. So, for the purpose of conducting a comprehensive analysis on politics in sports media, it is actually interesting to consider the quotes of all people linked to a political party potentially political.
 
-The subset of speakers with a political party represents PERCENTAGE% of speakers in sports quotes. As this percentage is significant, we consider that a policy analysis in sport is once again worth carrying out.
+The subset of speakers with a political party represents 8.78% of speakers in sports quotes. As this percentage is significant, we consider that a policy analysis in sport is once again worth carrying out.
 
 
 ### Speakers with political party : occupation distribution
@@ -94,7 +94,7 @@ The graph below shows the number of quotes from the 15 politicians most present 
 
 ![most_present_politicians](image/most_present/most_present_politicians.png)
 
-The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. More exactly, President Donald Trump is cited two times more than the second cited politician over sport quotes. However, President Donald Trump only represents 4% of speakers in sports quotes.
+The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. More exactly, President Donald Trump is cited two times more than the second cited politician over sport quotes. However, President Donald Trump only represents 3.45% of speakers in sports quotes.
 
 ## How much of the sport quotes among each media is politics related?
 
