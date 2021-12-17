@@ -27,7 +27,7 @@ Results show that the main occupations of sport quotes speakers are first associ
 
 It is interesting to note that not only politicians are assigned to a political party on wikidata. In fact, people with other professions but who are involved in campaigns are also attributed to a political party. These people might also want to influence the sports media audience in the direction of their political activism. So, for the purpose of conducting a comprehensive analysis on politics in sports media, it is actually interesting to consider the quotes of all people linked to a political party potentially political.
 
-The subset of speakers with a political party represents 8.78% of speakers in sports quotes. As this percentage is significant, we consider that a policy analysis in sport is once again worth carrying out.
+The subset of speakers with a political party represents 8.78% of speakers in sports quotes. As this percentage is significant, we consider analysing politics in sport is once again worth it.
 
 
 ### Speakers with political party : occupation distribution
