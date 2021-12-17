@@ -49,7 +49,7 @@ More exactly, we consider the following three different scenarios to better visu
 
 #### Speakers with a single occupation
 
-The distribution of occupancies for speakers with a single occupation is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
+The distribution of occupancies for speakers with a single occupation is shown below. This category represents 59% of sport quotes speakers with a party.
 
 ![politicians_occupation_distribution_1_occupation](image/occupation/politicians_occupation_distribution_1_occupation.png)
 
@@ -58,7 +58,7 @@ In the case of a single occupation, it remains mainly politicians. This was expe
 
 #### Speakers with multiple occupations including politics
 
-The distribution of occupancies for speakers with multiple occupations including politics is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
+The distribution of occupancies for speakers with multiple occupations including politics is shown below. This category represents 33% of sport quotes speakers with a party.
 
 ![politicians_occupation_distribution_politics](image/occupation/politicians_occupation_distribution_politics.png)
 
@@ -66,7 +66,7 @@ In this case, we can observe that politicians often have other professions which
 
 #### Speakers with multiple occupations excluding politics
 
-The distribution of occupancies for speakers with multiple occupations excluding politics is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
+The distribution of occupancies for speakers with multiple occupations excluding politics is shown below. This category represents 6% of sport quotes speakers with a party.
 
 ![politicians_occupation_distribution_1_non_politics](image/occupation/politicians_occupation_distribution_1_non_politics.png)
 
