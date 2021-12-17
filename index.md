@@ -111,7 +111,7 @@ Apart from the Republican and Democratic political parties of the United States,
 In order to make these data more usable, it is here proposed to analyze the distribution of political tendencies of these parties.
 
 <p align="center">
-  <img src="image/parties_wings.png">
+  <img src="image/parties_wings2.png">
 </p>
 
 The results show that the major tendency is center, with centrism, center right and center left equally distributed. The right and left wings are about half the size of the center, and are also evenly distributed. There are very few extremes.
