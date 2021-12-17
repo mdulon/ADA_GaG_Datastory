@@ -123,7 +123,7 @@ Now, that we have this selection of sports media, let's see what the proportion 
 
 ![](image/media_time_evolution/Political_speakers_by_media1.png 'Political speaker according to TOP 30 medias')
 
-As one can observe on this image, the proportion of political speakers among the different media ranges from 1.5% for Skysports to 71% for krmg. This seems to indicate that certain media are definitely more politicized than others and uses their sports section also for political reasons.
+As one can observe on this image, the proportion of political speakers among the different media ranges from 1.5% for FOXsports to 71% for KRMG. This seems to indicate that certain media are definitely more politicized than others and uses their sports section also for political reasons.
 
 ## How does this phenomenon evolve over time? For instance, does it increase before elections?
 
