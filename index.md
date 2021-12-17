@@ -21,59 +21,65 @@ Only selecting sport quotes of years from 2015 to 2020 from Quotebank
 ## Exploring data
 ### All sport quotes speakers : occupation distribution
 
-Among all sport quotes, we are looking at the distribution of the speakers' occupations. 
+In order to quantify the scale of the phenomenon that we propose to study, we start by looking at the distribution of all speakers' occupations among all sport quotes.
 
 ![sport_quotes_occupation_distribution](image/occupation/all_speakers.png)
-Footballer first (# %) and second politician (# %).
-We see that the second most present occupation in theses sport quotes is politician which may be surprising at first sight. And that's why it may be interesting to further analyse this phenomenon. 
 
-Second plot with only politicians ?
+Results show that the main occupations of sport quotes speakers are first association football player (up to 9%) and second politician (up to 6%). It is quite surprising at first sight to observe such a presence of politicians in sports quotes. That’s why it may be interesting to further analyze this phenomenon. It should also be noted that the other professions that stand out are either professions directly linked to sport, or professions generating a certain notoriety (actor, business person, journalist, writer, lawyer, etc.).
+
+Moreover, it is not only politicians who are assigned to a political party on wikidata. In fact, people with other professions but who are involved in campaigns are also attributed to a political party. These people might also want to influence the sports media audience in the direction of their political activism. So, for the purpose of conducting a comprehensive analysis on politics in sports media, it is actually interesting to consider the quotes of all people linked to a political party potentially political.
+
+![sport_quotes_occupation_distribution_aggregate_political_party](image/occupation/all_speakers.png)
+
+Note that most of the personalities not also directly related to sport that we observed in the previous graph fall into this larger category.
+Finally, it is PERCENTAGE% of speakers in sports quotes that are closely, directly or indirectly, linked to politics. As this percentage is significant, we consider that a policy analysis in sport is once again worth carrying out.
 
 
+### Speakers with political party : occupation distribution
 
+In order to draw correct conclusions from our study, it is however important to identify and quantify more exactly what are the occupations of people who have a political party among the speakers of sports quotes.
 
-### Politicians : occupation distribution
+Since these people sometimes have several jobs, our analysis of speaker occupancy has been broken down into 3 parts according to the number of different occupations for each speaker.
 
-For the rest of the analysis, we consider as "politician" a person with a politicial party. We realize that for our analysis this would make a lot more sense. 
-
-Our analysis of speaker occupancy has been broken down into 3 parts according to the number of different occupations for each speaker. 
-
-(Add plot of proportion of 3 parts ?)
+More exactly, we consider the following three different scenarios to better visualize the results:
+- speakers with a political party and a single occupation
+- speakers with a political party and several occupations including politician
+- speakers with a political party and several occupations excluding politician
 
 
 #### Speakers with a single occupation
 
-The distribution of occupancies for speakers with a single occupation is shown below. 
+The distribution of occupancies for speakers with a single occupation is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
 
 ![politicians_occupation_distribution_1_occupation](image/occupation/politicians_1_occupation.png)
+
+In the case of a single occupation, it remains mainly politicians. This was expected as part of the study on people being attributed to political parties. This is also reassuring because it shows that our study will be able to take into consideration the interesting phenomenon of the few non-politicians being attributed to a political party while being mainly centered on politicians.
 
 
 #### Speakers with multiple occupations including politics
 
-The distribution of occupancies for speakers with multiple occupations including politics is shown below. 
+The distribution of occupancies for speakers with multiple occupations including politics is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
 
 ![politicians_occupation_distribution_politics](image/occupation/politicians_politics.png)
 
--> bcp de politicians font autre chose (lawyer...), résultat attendu
+In this case, we can observe that politicians often have other professions which seem all linked to the human sciences and the media (lawyer, business person, journalist, etc.). This is a fairly consistent result of the image one can have of a politician.
 
 #### Speakers with multiple occupations excluding politics
 
-The distribution of occupancies for speakers with multiple occupations excluding politics is shown below. 
+The distribution of occupancies for speakers with multiple occupations excluding politics is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
 
 ![politicians_occupation_distribution_1_non_politics](image/occupation/politicians_no_politics.png)
 
-Thanks to this pie chart, we see that the most represented occupation is actor. 
-This can be interpreted as following, famous people often having a political party take advantage of their popularity to convey poltical opinions.
+Thanks to this pie chart, we see that the most represented occupation is actor. The other professions present are also professions with significant media coverage. This can be interpreted as following, famous people often having a political party take advantage of their popularity to convey political opinions.
 
-This is interesting to consider these people as "politician" for us because we are interested in the political messages conveyed, not only by politicians but more broadly by individuals involved in politics.
+Again, this is interesting to consider these people as “politicians” for us because we are interested in the political messages conveyed, not only by politicians but more broadly by individuals involved in politics.
 
-
--> les gens qui ont un parti sont souvent des politicians 
+However, remember that the majority of speakers attributed to a party are politicians.
 
 
+### Which political parties & politicians are most present in the sports quotes ?
 
-
-### Which political parties & politicians are most present in the sports quotes
+For the rest of the analysis, we consider as “politician” a person with a political party given that, as justified above, we realize that for our analysis this would make a lot more sense.
 
 #### Parties
 
@@ -81,7 +87,7 @@ This is interesting to consider these people as "politician" for us because we a
 
 We can observe that Democrats and Republicans are mostly represented but we can also notice the presence of many smaller parties.
 
-These 2 parties stand out the most because the quotes are English speaking, so it seems quite logical that the main parties of English speaking countries are most represented. 
+These two parties stand out the most because the quotes are English speaking, so it seems quite logical that the main parties of the biggest English speaking countries are most represented. Note that this can be considered as a limitation of our analysis since our objective would ideally be to study politics in sport without geographic bias.
 
 #### Politicians : 
 
