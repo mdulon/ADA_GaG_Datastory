@@ -114,6 +114,11 @@ In order to make these data more usable, it is here proposed to analyze the dist
   <img src="image/parties_wings.png">
 </p>
 
+<p align="center">
+  <img src="image/parties_wings_2.png">
+</p>
+
+
 The results show that the major tendency is center, with centrism, center right and center left equally distributed. The right and left wings are about half the size of the center, and are also evenly distributed. There are very few extremes.
 
 ## What is the distribution of the political parties present for a specific country?
