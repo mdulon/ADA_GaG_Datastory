@@ -95,7 +95,7 @@ We can observe that Democrats and Republicans are mostly represented but we can 
 
 These two parties stand out the most because the quotes are English speaking, so it seems quite logical that the main parties of the biggest English speaking countries are most represented. Note that this can be considered as a limitation of our analysis since our objective would ideally be to study politics in sport without geographic bias.
 
-#### Politicians : 
+#### Politicians 
 
 The graph below shows the number of quotes from the 15 politicians most present as speakers in sport quotes.
 
