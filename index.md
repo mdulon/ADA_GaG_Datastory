@@ -178,4 +178,4 @@ However, we have only scratched the tip of the iceberg due to time contraint. Fo
 # The GaG team
 
 Maxime Dulon, Etienne Mordret, Francesca Paola Nicoletti, Nicolas Raulin
-
+![footballer_wordcloud](image/footballer_wordcloud.png)
