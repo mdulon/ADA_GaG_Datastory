@@ -100,7 +100,7 @@ These two parties stand out the most because the quotes are English speaking, so
 The graph below shows the number of quotes from the 15 politicians most present as speakers in sport quotes.
 
 <p align="center">
-  <img src="image/most_present/most_present_politicians.png">
+  <img src="image/politicians_distribution.png">
 </p>
 
 The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. More exactly, President Donald Trump is cited two times more than the second cited politician over sport quotes. However, President Donald Trump only represents 3.45% of speakers in sports quotes.
@@ -112,14 +112,6 @@ In order to make these data more usable, it is here proposed to analyze the dist
 
 <p align="center">
   <img src="image/parties_wings3.png">
-</p>
-
-<p align="center">
-  <img src="image/parties_wings2.png">
-</p>
-
-<p align="center">
-  <img src="image/parties_wings_2.png">
 </p>
 
 
