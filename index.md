@@ -111,7 +111,7 @@ Apart from the Republican and Democratic political parties of the United States,
 In order to make these data more usable, it is here proposed to analyze the distribution of political tendencies of these parties.
 
 <p align="center">
-  <img src="image/parties_wings.png">
+  <img src="image/parties_wings2.png">
 </p>
 
 <p align="center">
