@@ -23,13 +23,13 @@ Only selecting sport quotes of years from 2015 to 2020 from Quotebank
 
 In order to quantify the scale of the phenomenon that we propose to study, we start by looking at the distribution of all speakers' occupations among all sport quotes.
 
-![sport_quotes_occupation_distribution](image/occupation/all_speakers.png)
+![sport_quotes_occupation_distribution](image/occupation/sport_quotes_occupation_distribution.png)
 
 Results show that the main occupations of sport quotes speakers are first association football player (up to 9%) and second politician (up to 6%). It is quite surprising at first sight to observe such a presence of politicians in sports quotes. That’s why it may be interesting to further analyze this phenomenon. It should also be noted that the other professions that stand out are either professions directly linked to sport, or professions generating a certain notoriety (actor, business person, journalist, writer, lawyer, etc.).
 
 Moreover, it is not only politicians who are assigned to a political party on wikidata. In fact, people with other professions but who are involved in campaigns are also attributed to a political party. These people might also want to influence the sports media audience in the direction of their political activism. So, for the purpose of conducting a comprehensive analysis on politics in sports media, it is actually interesting to consider the quotes of all people linked to a political party potentially political.
 
-![sport_quotes_occupation_distribution_aggregate_political_party](image/occupation/all_speakers.png)
+![sport_quotes_occupation_distribution_aggregate_political_party](image/occupation/sport_quotes_occupation_distribution_aggregate_political_party.png)
 
 Note that most of the personalities not also directly related to sport that we observed in the previous graph fall into this larger category.
 Finally, it is PERCENTAGE% of speakers in sports quotes that are closely, directly or indirectly, linked to politics. As this percentage is significant, we consider that a policy analysis in sport is once again worth carrying out.
@@ -51,7 +51,7 @@ More exactly, we consider the following three different scenarios to better visu
 
 The distribution of occupancies for speakers with a single occupation is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
 
-![politicians_occupation_distribution_1_occupation](image/occupation/politicians_1_occupation.png)
+![politicians_occupation_distribution_1_occupation](image/occupation/politicians_occupation_distribution_1_occupation.png)
 
 In the case of a single occupation, it remains mainly politicians. This was expected as part of the study on people being attributed to political parties. This is also reassuring because it shows that our study will be able to take into consideration the interesting phenomenon of the few non-politicians being attributed to a political party while being mainly centered on politicians.
 
@@ -60,7 +60,7 @@ In the case of a single occupation, it remains mainly politicians. This was expe
 
 The distribution of occupancies for speakers with multiple occupations including politics is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
 
-![politicians_occupation_distribution_politics](image/occupation/politicians_politics.png)
+![politicians_occupation_distribution_politics](image/occupation/politicians_occupation_distribution_politics.png)
 
 In this case, we can observe that politicians often have other professions which seem all linked to the human sciences and the media (lawyer, business person, journalist, etc.). This is a fairly consistent result of the image one can have of a politician.
 
@@ -68,7 +68,7 @@ In this case, we can observe that politicians often have other professions which
 
 The distribution of occupancies for speakers with multiple occupations excluding politics is shown below. This category represents PERCENTAGE% of sport quotes speakers with a party.
 
-![politicians_occupation_distribution_1_non_politics](image/occupation/politicians_no_politics.png)
+![politicians_occupation_distribution_1_non_politics](image/occupation/politicians_occupation_distribution_1_non_politics.png)
 
 Thanks to this pie chart, we see that the most represented occupation is actor. The other professions present are also professions with significant media coverage. This can be interpreted as following, famous people often having a political party take advantage of their popularity to convey political opinions.
 
@@ -83,7 +83,7 @@ For the rest of the analysis, we consider as “politician” a person with a po
 
 #### Parties
 
-![most_present_political_parties](image/most_present/parties.png)
+![most_present_political_parties](image/most_present/most_present_political_parties.png)
 
 We can observe that Democrats and Republicans are mostly represented but we can also notice the presence of many smaller parties.
 
@@ -91,11 +91,11 @@ These two parties stand out the most because the quotes are English speaking, so
 
 #### Politicians : 
 
-![most_present_politicians](image/most_present/politicians.png)
+The graph below shows the number of quotes from the 15 politicians most present as speakers in sport quotes.
 
-à voir avec la nouvelle fonction de Nicolas
+![most_present_politicians](image/most_present/most_present_politicians.png)
 
--> personnes qui ressortent le plus ?
+The first politician most prominent in sports quotes is President Donald Trump. We can note that this one is much more quoted than the other politicians, whose distribution is homogenized rather quickly. However, President Donald Trump only represents 4% of speakers in sports quotes.
 
 ## How much of the sport quotes among each media is politics related?
 
