@@ -20,7 +20,7 @@ The data used for the entire analysis are Quotebank data for the years 2015 to 2
 In order to quantify the scale of the phenomenon that we propose to study, we start by looking at the distribution of all speakers' occupations among all sport quotes.
 
 <p align="center">
-  <img width="600" height="200" src="image/occupation/sport_quotes_occupation_distribution.png">
+  <img src="image/occupation/sport_quotes_occupation_distribution.png">
 </p>
 
 
