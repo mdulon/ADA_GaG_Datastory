@@ -19,7 +19,10 @@ The data used for the entire analysis are Quotebank data for the years 2015 to 2
 
 In order to quantify the scale of the phenomenon that we propose to study, we start by looking at the distribution of all speakers' occupations among all sport quotes.
 
-![sport_quotes_occupation_distribution](image/occupation/sport_quotes_occupation_distribution.png)
+<p align="center">
+  <img width="600" height="200" src="image/occupation/sport_quotes_occupation_distribution.png">
+</p>
+
 
 Results show that the main occupations of sport quotes speakers are first association football player (up to 9%) and second politician (up to 6%). It is quite surprising at first sight to observe such a presence of politicians in sports quotes. That’s why it may be interesting to further analyze this phenomenon. It should also be noted that the other professions that stand out are either professions directly linked to sport, or professions generating a certain notoriety (actor, business person, journalist, writer, lawyer, etc.).
 
